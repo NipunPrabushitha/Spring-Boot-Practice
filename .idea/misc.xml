@@ -5,6 +5,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/mycoolapp/mycoolapp/pom.xml" />
+        <option value="$PROJECT_DIR$/01-spring-boot-overview/01-spring-boot-demo/mycoolapp/pom.xml" />
+        <option value="$PROJECT_DIR$/01-spring-boot-overview/02-spring-boot-demo/mycoolapp/pom.xml" />
       </list>
     </option>
   </component>
